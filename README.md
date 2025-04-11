@@ -44,7 +44,7 @@ We can list all tags using the command ` git tag `
 ---------------------------------------------------------------------------------------
 
 ## Add an image in the README.md file.  
-(https://images.search.yahoo.com/search/images?p=image+nature&fr=mcafee&type=E211US714G0&imgurl=http%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2016%2F01%2F102787-nature-mountain-river-landscape.jpg#id=4&iurl=http%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2016%2F01%2F102787-nature-mountain-river-landscape.jpg&action=click)
+(/images/logo.png)
 
 
 
