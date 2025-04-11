@@ -1,5 +1,5 @@
-#Git-Branching
-##How to remove the Branches (dev, test) Locally?
+# Git-Branching
+## How to remove the Branches (dev, test) Locally?
 
 -  In order to delete a local branch we use the command:
 `git branch -d brach_name`
