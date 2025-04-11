@@ -44,7 +44,7 @@ We can list all tags using the command ` git tag `
 ---------------------------------------------------------------------------------------
 
 ## Add an image in the README.md file.  
-(/images/logo.png)
+![My_Local_image](./images/logo.png)
 
 
 
